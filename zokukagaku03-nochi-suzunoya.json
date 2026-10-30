@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/nochi-suzunoya",
  "yomi": "のちのすずのやしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "文化13年（1816）11月序",
+  "author": "本居春庭（1763〜1828）",
+  "desc": "本居宣長の子で、失明ののち語学研究に業績を残した本居春庭の家集。宣長の歌の調べを受け継ぐことから「後の鈴屋集」と名づけたと序にいう。"
+ },
  "editions": [
   {
    "pid": "993381",
